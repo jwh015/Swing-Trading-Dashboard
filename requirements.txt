@@ -1,6 +1,4 @@
-setuptools
 streamlit
 yfinance
 pandas
 plotly
-pandas-ta
